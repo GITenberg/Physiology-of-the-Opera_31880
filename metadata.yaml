@@ -1,0 +1,29 @@
+_repo: Physiology-of-the-Opera_31880
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scrici
+    alias: Swaby, John H.
+    deathdate: 1891
+    gutenberg_agent_id: '35531'
+    url: http://www.gutenberg.org/2009/agents/35531
+description: ''
+gutenberg_issued: '2010-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opera -- Anecdotes'
+- !lcc 'ML'
+tableOfContents: The opera in the abstract -- Of the tenore -- Of the primo basso
+  -- Of the prima donna -- Of the barytone -- Of the suggeritore or prompter -- Before
+  the curtain -- Of the opera in the concrete -- Après.
+title: Physiology of the Opera
+url: http://www.gutenberg.org/ebooks/31880
