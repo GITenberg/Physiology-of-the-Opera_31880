@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35531'
     url: http://www.gutenberg.org/2009/agents/35531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31880#Physiology-of-the-Opera
 gutenberg_issued: '2010-04-04'
 gutenberg_type: Text
 identifiers:
